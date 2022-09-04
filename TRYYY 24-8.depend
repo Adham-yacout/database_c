@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1661776511 source:c:\users\kimo store\desktop\tryyy 24-8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1661776999 source:c:\users\kimo store\desktop\tryyy 24-8\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1661775962 c:\users\kimo store\desktop\tryyy 24-8\prototypes.h
+
+1661744698 source:e:\adham new life\c programs\database system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1662300139 e:\adham new life\c programs\database system\prototypes.h
+
+1662299810 source:e:\adham new life\c programs\database system\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
